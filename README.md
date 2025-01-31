@@ -12,7 +12,21 @@ Fique à vontade para conferir meu perfil no "LinkedIn".
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascargerani&layout=compact&Langs_count=16&theme=dracula&locale=pt-br"/>
 </div>
 
----
+##
+
+### 🤖 Linguagens e Frameworks
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Lucas-Dj" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
+  
+</div>
+  
+  ##
+
+### 🤖 Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -21,8 +35,8 @@ Fique à vontade para conferir meu perfil no "LinkedIn".
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-Dj" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
 </div>
-  
-  ##
+
+ ##
  
 <div> 
   <a href="https://www.youtube.com/@LucasCargerani" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
