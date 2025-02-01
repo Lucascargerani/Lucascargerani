@@ -1,6 +1,6 @@
 ## 🐍 Olá, Mundo! Sejam bem vindos!!
 
-### Análise e Desenvolvimento De Sistemas São Paulo, SP - Brasil - 25 anos
+**`Análise e Desenvolvimento De Sistemas`**  **`São Paulo, SP - Brasil`** **`25 anos`**
 
 Atualmente estou cursando o 1° semestre de Análise e Desenvolvimento de Sistemas na Faculdade Impacta Tecnologia (FIT), possuo conhecimentos e experiências na área de TI, trabalho com algumas ferramentas de desenvolvimento.
 
@@ -8,8 +8,8 @@ Fique à vontade para conferir meu perfil no "LinkedIn".
 
 <div>
   <a href="https://github.com/Lucascargerani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucascargerani&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascargerani&layout=compact&Langs_count=16&theme=dracula&locale=pt-br"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Lucascargerani&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"/>
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascargerani&layout=compact&Langs_count=16&theme=dracula&locale=pt-br"/>
 </div>
 
 ##
