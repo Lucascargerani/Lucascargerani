@@ -2,7 +2,7 @@
 
 **`Análise e Desenvolvimento De Sistemas`**  **`São Paulo, SP - Brasil`** **`25 anos`**
 
-Atualmente estou cursando o 1° semestre de Análise e Desenvolvimento de Sistemas na Faculdade Impacta Tecnologia (FIT), possuo conhecimentos e experiências na área de TI, trabalho com algumas ferramentas de desenvolvimento.
+Atualmente estou cursando o 1° semestre de Análise e Desenvolvimento de Sistemas na Faculdade Impacta Tecnologia (FIT), possuo conhecimentos e experiências na área de TI, trabalho com algumas ferramentas de desenvolvimento e monitoração de ambientes.
 
 ##
 
