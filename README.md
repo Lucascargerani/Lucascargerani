@@ -14,7 +14,7 @@ Fique à vontade para conferir meu perfil no "LinkedIn".
 
 ##
 
-![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Lucascargernai/Lucascargerani/blob/output/github-contribution-grid-snake.svg)
 ##
 
 ### 🤖 Linguagens e Frameworks
