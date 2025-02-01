@@ -14,7 +14,7 @@ Fique à vontade para conferir meu perfil no "LinkedIn".
 
 ##
 
-![Snake animation](https://github.com/lucascargerani/lucascargerani/blob/output/github-contribution-grid-snake.svg)
+(https://github.com/lucascargerani/lucascargerani/blob/output/github-contribution-grid-snake.svg)
 
 ##
 
