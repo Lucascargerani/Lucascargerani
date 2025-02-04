@@ -8,8 +8,8 @@ Atualmente estou cursando o 1° semestre de Análise e Desenvolvimento de Sistem
 
 <div>
   <a href="https://github.com/Lucascargerani">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=lucascargerani&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" alt="lucascargerani"/>
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascargerani&layout=compact&Langs_count=25&theme=dracula&locale=pt-br"/>
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=lucascargerani&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" alt="lucascargerani"/>
+    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucascargerani&layout=compact&Langs_count=25&theme=dracula&locale=pt-br"/>
 
 </div>
 
